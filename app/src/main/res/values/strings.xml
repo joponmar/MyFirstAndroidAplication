@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstAndroidAplication</string>
+    <string name="text_view1">Welcome</string>
+    <string name="button1">Enter</string>
+</resources>
